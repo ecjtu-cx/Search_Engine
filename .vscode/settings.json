@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "threadpool.h": "c",
+        "direntop.h": "c",
+        "encode.h": "c",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "functional": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "cmake.ignoreCMakeListsMissing": true
+}
